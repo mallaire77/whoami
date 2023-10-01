@@ -9,13 +9,20 @@ mallaire77@gmail.com \
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallaire77/)
 
 # Summary
+I’m a software developer specializing in backend software design and development with experience in project and team management. I’m looking
+to grow professionally and utilize my skills to help design and build quality reactive software products, guide team members, and foster a healthy
+team environment. My leadership philosophy is to put the team first, making sure they have everything they need to succeed, and cultivating a
+positive work environment where everyone feels heard. I believe this type of environment is the most conducive to meeting delivery targets. I’m
+happy being an individual contributor, or leading a team.
 
 # Experience
 ### Finwello
 **Director of Product Development**\
 *(Sept. 2022 - Present)*
 - Test
+
 ---
+
 ### Yoppworks
 **Principal Consultant**\
 *(May 2022 - Sept. 2022)*
@@ -28,12 +35,16 @@ mallaire77@gmail.com \
 **Software Developer**\
 *(Aug. 2018 - Oct. 2020)*
 - Test
+
 ---
+
 ### Staello
 **Technonology Partner**\
 *(Apr. 2017 - Jan. 2022)*
 - Test
+
 ---
+
 ### SapientRazorfish
 **Senior Software Developer**\
 *(May 2017 - Aug. 2018)*
@@ -42,12 +53,16 @@ mallaire77@gmail.com \
 **Software Developer**\
 *(Mar. 2016 - May 2017)*
 - Test
+
 ---
+
 ### Discoverly
 **Technology Partner**\
 *(Mar. 2014 - Apr. 2018)*
 - Test
+
 ---
+
 ### Telus Health
 **Software Developer**\
 *(Apr. 2014 - Mar. 2016)*
