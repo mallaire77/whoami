@@ -1,4 +1,5 @@
 <table id="header">
+<tr>
 <td>
 <img src="./profile.jpg" alt="profile" width="175"/>
 </td>
