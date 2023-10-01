@@ -1,18 +1,25 @@
-# Martin Allaire
-*Senior Software Developer*
+<table id="header">
+<td>
+<img src="./profile.jpg" alt="profile" width="175"/>
+</td>
+<td>
 
-![Profile Picture](./profile.jpg)
+**Martin Allaire** \
+*Senior Software Developer* \
+mallaire77@gmail.com \
+(613) 804-4534
 
-**Contact Information:**
-- Email: john.doe@example.com
-- Phone: (123) 456-7890
-- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mallaire77) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallaire77/) 
+
+</td>
+</tr>
+</table>
 
 ## Summary
 Experienced Senior Software Developer with a proven track record of delivering high-quality software solutions. Strong expertise in full-stack web development, software architecture, and team leadership. Adept at collaborating with cross-functional teams to solve complex technical challenges.
 
-## Professional Experience
+## Experience
 ### ABC Software Solutions, Senior Software Developer
 *January 2017 - Present*
 - Led a team of 5 developers in the design and development of a mission-critical e-commerce platform, resulting in a 30% increase in sales and improved user experience.
@@ -35,33 +42,5 @@ Experienced Senior Software Developer with a proven track record of delivering h
 *XYZ University*
 *Graduated May 2014*
 
-## Skills
-- Programming Languages: Java, Python, JavaScript
-- Web Development: HTML, CSS, JavaScript, Angular
-- Frameworks: Spring Boot, Django
-- Database Management: PostgreSQL, MongoDB
-- DevOps: Docker, Kubernetes, Jenkins, GitLab
-- Software Architecture and Design Patterns
-- Agile/Scrum Methodologies
-- Team Leadership and Mentorship
-
 ## Certifications
-- AWS Certified Solutions Architect – Associate
-- Certified ScrumMaster (CSM)
-
-## Projects
-### Online Ticket Booking System
-- Developed a web-based ticket booking system for a cinema chain, integrating with payment gateways and implementing real-time seat selection.
-- Technologies used: Java, Spring Boot, Angular, PostgreSQL.
-
-### Personal Blog Website
-- Designed and built a personal blog website from scratch, showcasing articles on technology and programming.
-- Technologies used: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB.
-
-## Awards and Recognition
-- Employee of the Month, ABC Software Solutions (July 2019)
-- Outstanding Contribution Award, XYZ Tech (2015)
-
-## Languages
-- English (Fluent)
-- Spanish (Intermediate)
+- 
