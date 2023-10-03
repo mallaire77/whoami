@@ -41,13 +41,14 @@ product that helps companies track their corporate social responsibility efforts
 *(Aug. 2018 - Oct. 2020)*
 - Started at Yoppworks as an embedded engineer for Verizon, consulting on the Lightbend stack
 - Moved to working on GoSpaces, a subsidiary of Yoppworks. What started as a reference architecture to be used for our client engagements, quickly became a business
-- Gave a full day conference workshop on  on 'Akka Streams' @ Reactive Summit (*2018*)
-- Gave a conference talk on 'The current state of gRPC as a gateway' @ Reactive Horizons (*2019*)
+- Gave the following conference talks
+    - Gave a full day conference workshop on  on 'Akka Streams' @ Reactive Summit (*2018*)
+    - Gave a conference talk on 'The current state of gRPC as a gateway' @ Reactive Horizons (*2019*)
 
 ## SapientRazorfish
 **Senior Software Developer**\
 *(Oct. 2017 - Aug. 2018)*
-- Worked exclusively for the Walmart CA client. I worked on nearly each Walmart CA project while I was there, but the projects I worked on the most are the following
+- Worked exclusively for the Walmart CA client. I worked with many teams while on the Walmart CA project, but my primary achievements are
     - Lead development of a service that gives all business units access to product information of the Walmart catalog
     - Lead development of the Scan&Go project, a service that allows users to shop at physical Walmart locations digitally
 
