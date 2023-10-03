@@ -16,7 +16,7 @@ Experienced Software Developer with a strong background in backend software desi
 **Director of Product Development**\
 *(Sept. 2022 - Present)*
 
-- Built a budget friendly team composed of internal and outsourced talent, accross disciplines like ui/ux, frontend development, backend development, etc.
+- Assembled a budget friendly team composed of internal and outsourced talent, accross disciplines like ui/ux, frontend development, backend development, etc.
 - Delivered the software product on budget and on time, from inception to market launch
 - Established reasonable SLAs, SLOs and SLIs and the infrastructure to track them
 - Providing sales support; meeting with technical members of prospective clients to address any technical, security, and integration concerns
