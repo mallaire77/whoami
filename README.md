@@ -16,6 +16,7 @@ Experienced Software Developer with a strong background in backend software desi
 **Director of Product Development**\
 *(Sept. 2022 - Present)*
 
+- Worked primarily with Scala, Akka, Dart, Flutter, Firebase, and many GCP products (terraform)
 - Assembled a budget friendly team composed of internal and outsourced talent, accross disciplines like ui/ux, frontend development, backend development, etc.
 - Delivered the software product on budget and on time, from inception to market launch
 - Established reasonable SLAs, SLOs and SLIs and the infrastructure to track them
@@ -25,6 +26,7 @@ Experienced Software Developer with a strong background in backend software desi
 ## Yoppworks
 **Principal Consultant**\
 *(May 2022 - Sept. 2022)*
+- Worked primarily with the client's given stack & GCP (terraform)
 - Worked with senior management to build out Yoppwork's cloud services practice
 - Named Google's '[Partner of the Year](https://www.improving.com/thoughts/yoppworks-named-the-2023-google-cloud-public-sector-partner-of-the-year/)' for the 'Public Sector (Canada)' category within a year of launching Yoppwork's cloud services offering
 - Day to day, I worked in a client facing role to establish ways of working, regular check-ins, and facilitating knowledge transfer
@@ -32,6 +34,7 @@ Experienced Software Developer with a strong background in backend software desi
 
 **Team Lead**\
 *(Oct. 2020 - May 2022)*
+- Worked primarily with Scala, Akka, Typescript, ReactNative, and many GCP products (terraform)
 - Working as Team Lead for GoSpaces, a subsidiary of Yoppworks, GoSpaces is a
 product that helps companies track their corporate social responsibility efforts via company wide challenges and a powerful space reservation
 - Implemented and executed processes for day to day operation that allowed the team to work as indedendently as possible
@@ -39,6 +42,7 @@ product that helps companies track their corporate social responsibility efforts
 
 **Software Developer**\
 *(Aug. 2018 - Oct. 2020)*
+- Worked primarily with Scala & Akka
 - Started at Yoppworks as an embedded engineer for Verizon, consulting on the Lightbend stack
 - Moved to working on GoSpaces, a subsidiary of Yoppworks. What started as a reference architecture to be used for our client engagements, quickly became a business
 - Gave the following conference talks
@@ -48,6 +52,7 @@ product that helps companies track their corporate social responsibility efforts
 ## SapientRazorfish
 **Senior Software Developer**\
 *(Oct. 2017 - Aug. 2018)*
+- Worked primarily with Scala, Akka, Spark, Typescript, and NodeJS, Cassandra
 - Worked exclusively for the Walmart CA client. I worked with many teams while on the Walmart CA project, but my primary achievements are
     - Lead development of a service that gives all business units access to product information of the Walmart catalog
     - Lead development of the Scan&Go project, a service that allows users to shop at physical Walmart locations digitally
@@ -58,6 +63,7 @@ product that helps companies track their corporate social responsibility efforts
 ## Discoverly
 **Technology Partner**\
 *(Apr. 2014 - Apr. 2018)*
+- Worked primarily with Scala, Akka, Spark, Javascript, AngularJS, PostgreSQL, and Redis
 - Lead the development of our software application, an application that helps prospective students choose a field of study that best suits them
 - Recruited post-doc's to aid in the design, creation, and validation of our algorithm
 - Built the application in a way that could be adapted to any post-secondary institution's program offering
@@ -69,6 +75,7 @@ product that helps companies track their corporate social responsibility efforts
 ## Telus Health
 **Software Developer**\
 *(Apr. 2014 - Mar. 2016)*
+- Worked primarily with Java, Oracle DB, PostgreSQL
 - Working primarily on implementing various features to Telus Health's flagship EMR product, PS Suite
 - Worked as build master, leading monthly packaging, build and release of our software application to onsite servers at physician offices accross Ontario
 
