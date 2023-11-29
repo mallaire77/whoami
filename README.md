@@ -89,6 +89,23 @@ product that helps companies track their corporate social responsibility efforts
 Computer Science Technology, CSE\
 *(2010-2014)*
 
+# Expertise
+**Languages**
+- Scala/Java, TypeScript/JavaScript, Dart, Python
+
+**Major Frameworks**
+- Tapir, Vert.x, Akka, Spark, Play Framework, Flutter, React/Native, NextJS, NodeJS
+
+**Infrastructure**
+- GCP, AWS, Kubernetes, Docker
+- Github Actions, Jenkins, TravisCI
+- Major relational and non-relational databases
+
+**ML**
+- Model selection and performance evaluation
+- Methods to optimize a model's objective function across dataset size, compute budget, and inference requirements
+- Methods for training, tuning, inference, and deployment
+
 # Certifications
 - **École Polytechnique Fédérale de Lausanne on Coursera**, Functional Programming Principles in Scala (*2017*)
 - **École Polytechnique Fédérale de Lausanne on Coursera**, Big Data Analysis with Scala and Spark (*2017*)
