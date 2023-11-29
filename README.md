@@ -33,7 +33,7 @@ Experienced Software Developer with a strong background in backend software desi
 - Day to day, I worked with the team on software development tasks, prioritizing my client facing role to establish ways of working, regular check-ins, and facilitating knowledge transfer when the need arises
 
 **Team Lead**\
-<sup>**scala, js, akka, react native, kafka, postgresql, cassandra, protobuffer, docker, gitlab ci, dcos, gcp (gke)**</sup>\
+<sup>**scala, js, akka, react native, kafka, postgresql, cassandra, dcos, gcp (gke)**</sup>\
 *(Oct. 2020 - May 2022)*
 - Worked primarily with Scala, Akka, Typescript, ReactNative, and many GCP products (terraform)
 - Working as Team Lead for GoSpaces, a subsidiary of Yoppworks, GoSpaces is a
@@ -42,7 +42,7 @@ product that helps companies track their corporate social responsibility efforts
 - In between my primary responsibilities I'd be with the team building backend features
 
 **Software Developer**\
-<sup>**scala, js, akka, react native, kafka, postgresql, cassandra, protobuffer, docker, gitlab ci, dcos, gcp (gke)**</sup>\
+<sup>**scala, js, akka, react native, kafka, postgresql, cassandra, dcos, gcp (gke)**</sup>\
 *(Aug. 2018 - Oct. 2020)*
 - Worked primarily with Scala & Akka
 - Started at Yoppworks as an embedded engineer for Verizon, consulting on the Lightbend stack
