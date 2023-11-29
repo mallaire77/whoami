@@ -14,8 +14,8 @@ Experienced Software Developer with a strong background in backend software desi
 # Experience
 ## Finwello
 **Director of Product Development**\
+<sup>**scala, dart, tapir (w/ vert.x), flutter, firebase, gcp (gke, pubsub, cloud tasks)**</sup>\
 *(Sept. 2022 - Present)*
-
 - Worked primarily with Scala, Akka, Dart, Flutter, Firebase, and many GCP products (terraform)
 - Assembled a budget friendly team composed of internal and outsourced talent, accross disciplines like ui/ux, frontend development, backend development, etc.
 - Delivered the software product on budget and on time, from inception to market launch
@@ -25,14 +25,15 @@ Experienced Software Developer with a strong background in backend software desi
 
 ## Yoppworks
 **Principal Consultant**\
+<sup>**gcp**</sup>\
 *(May 2022 - Sept. 2022)*
 - Worked primarily with the client's given stack & GCP (terraform)
 - Worked with senior management to build out Yoppwork's cloud services practice
 - Named Google's '[Partner of the Year](https://www.improving.com/thoughts/yoppworks-named-the-2023-google-cloud-public-sector-partner-of-the-year/)' for the 'Public Sector (Canada)' category within a year of launching Yoppwork's cloud services offering
-- Day to day, I worked in a client facing role to establish ways of working, regular check-ins, and facilitating knowledge transfer
-- When time allowed, I'd be participating in development with the rest of the team
+- Day to day, I worked with the team on software development tasks, prioritizing my client facing role to establish ways of working, regular check-ins, and facilitating knowledge transfer when the need arises
 
 **Team Lead**\
+<sup>**scala, js, akka, react native, kafka, postgresql, cassandra, protobuffer, docker, gitlab ci, dcos, gcp (gke)**</sup>\
 *(Oct. 2020 - May 2022)*
 - Worked primarily with Scala, Akka, Typescript, ReactNative, and many GCP products (terraform)
 - Working as Team Lead for GoSpaces, a subsidiary of Yoppworks, GoSpaces is a
@@ -41,6 +42,7 @@ product that helps companies track their corporate social responsibility efforts
 - In between my primary responsibilities I'd be with the team building backend features
 
 **Software Developer**\
+<sup>**scala, js, akka, react native, kafka, postgresql, cassandra, protobuffer, docker, gitlab ci, dcos, gcp (gke)**</sup>\
 *(Aug. 2018 - Oct. 2020)*
 - Worked primarily with Scala & Akka
 - Started at Yoppworks as an embedded engineer for Verizon, consulting on the Lightbend stack
@@ -51,6 +53,7 @@ product that helps companies track their corporate social responsibility efforts
 
 ## SapientRazorfish
 **Senior Software Developer**\
+<sup>**scala, ts/js, play framework, spark, akka, graphql, kafka, cassandra**</sup>\
 *(Oct. 2017 - Aug. 2018)*
 - Worked primarily with Scala, Akka, Spark, Typescript, and NodeJS, Cassandra
 - Worked exclusively for the Walmart CA client. I worked with many teams while on the Walmart CA project, but my primary achievements are
@@ -62,6 +65,7 @@ product that helps companies track their corporate social responsibility efforts
 
 ## Discoverly
 **Technology Partner**\
+<sup>**scala, js, play framework, angularjs, postgresql, redis, heroku**</sup>\
 *(Apr. 2014 - Apr. 2018)*
 - Worked primarily with Scala, Akka, Spark, Javascript, AngularJS, PostgreSQL, and Redis
 - Lead the development of our software application, an application that helps prospective students choose a field of study that best suits them
@@ -74,6 +78,7 @@ product that helps companies track their corporate social responsibility efforts
 
 ## Telus Health
 **Software Developer**\
+<sup>**java, postgresql & oracle db**</sup>\
 *(Apr. 2014 - Mar. 2016)*
 - Worked primarily with Java, Oracle DB, PostgreSQL
 - Working primarily on implementing various features to Telus Health's flagship EMR product, PS Suite
@@ -91,10 +96,3 @@ Computer Science Technology, CSE\
 - **Lightbend**, [Accredited Trainer, Lightbend Akka for Scala - Professional](https://drive.google.com/file/d/1U9VPr-ouuZ6wSBzdoNQXAxp15dbj3VxJ/view) (*2018*)
 - **Lightbend**, [Accredited Trainer, Lightbend Akka Streams for Scala - Professional](https://drive.google.com/file/d/1UDHpSjELPFSg0758yzOr0DmvLBR46IZE/view) (*2018*)
 - **Lightbend**, [Ceritified Reactive Operations](https://drive.google.com/file/d/1U0_MYDQK2tkVmTz8IY4vgT68Y0mltoF4/view) (*2019*)
-
-# Fun Facts
-- I enjoy hockey and skiing as winter activities
-- I enjoy ultimate frisbee and motorsports as summer activities
-- My favorite hobby is sim racing, or building things for sim racing
-- Currently learning the piano using the SimplyPiano app
-- I <3 learning
