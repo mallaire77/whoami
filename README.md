@@ -1,11 +1,11 @@
- <img src="./profile.jpg" alt="profile" width="200"/>
+ <img src="https://github.com/mallaire77/me/blob/main/profile.jpg?raw=true" alt="profile" width="200"/>
 
 **Martin Allaire** \
 *Senior Software Developer* \
 mallaire77@gmail.com \
 (613) 804-4534
 
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mallaire77) 
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mallaire77)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallaire77/)
 
 # Summary
@@ -14,9 +14,8 @@ Experienced Software Developer with a strong background in backend software desi
 # Experience
 ## Finwello
 **Director of Product Development**\
-<sup>**scala, dart, tapir (w/ vert.x), flutter, firebase, gcp (gke, pubsub, cloud tasks)**</sup>\
+<sup>**scala, dart, tapir (w/ vert.x), flutter, firebase, gcp (gke, pubsub, cloud  tasks)**</sup>\
 *(Sept. 2022 - Present)*
-- Worked primarily with Scala, Akka, Dart, Flutter, Firebase, and many GCP products (terraform)
 - Assembled a budget friendly team composed of internal and outsourced talent, accross disciplines like ui/ux, frontend development, backend development, etc.
 - Delivered the software product on budget and on time, from inception to market launch
 - Established reasonable SLAs, SLOs and SLIs and the infrastructure to track them
@@ -27,7 +26,6 @@ Experienced Software Developer with a strong background in backend software desi
 **Principal Consultant**\
 <sup>**gcp**</sup>\
 *(May 2022 - Sept. 2022)*
-- Worked primarily with the client's given stack & GCP (terraform)
 - Worked with senior management to build out Yoppwork's cloud services practice
 - Named Google's '[Partner of the Year](https://www.improving.com/thoughts/yoppworks-named-the-2023-google-cloud-public-sector-partner-of-the-year/)' for the 'Public Sector (Canada)' category within a year of launching Yoppwork's cloud services offering
 - Day to day, I worked with the team on software development tasks, prioritizing my client facing role to establish ways of working, regular check-ins, and facilitating knowledge transfer when the need arises
@@ -35,17 +33,15 @@ Experienced Software Developer with a strong background in backend software desi
 **Team Lead**\
 <sup>**scala, js, akka, react native, kafka, postgresql, cassandra, dcos, gcp (gke)**</sup>\
 *(Oct. 2020 - May 2022)*
-- Worked primarily with Scala, Akka, Typescript, ReactNative, and many GCP products (terraform)
 - Working as Team Lead for GoSpaces, a subsidiary of Yoppworks, GoSpaces is a
 product that helps companies track their corporate social responsibility efforts via company wide challenges and a powerful space reservation
 - Implemented and executed processes for day to day operation that allowed the team to work as indedendently as possible
-- In between my primary responsibilities I'd be with the team building backend features
+- Day to day, I worked with the team on software development tasks, prioritizing team lead activities
 
 **Software Developer**\
 <sup>**scala, js, akka, react native, kafka, postgresql, cassandra, dcos, gcp (gke)**</sup>\
 *(Aug. 2018 - Oct. 2020)*
-- Worked primarily with Scala & Akka
-- Started at Yoppworks as an embedded engineer for Verizon, consulting on the Lightbend stack
+- Started at Yoppworks as an embedded engineer consulting on the Lightbend stack
 - Moved to working on GoSpaces, a subsidiary of Yoppworks. What started as a reference architecture to be used for our client engagements, quickly became a business
 - Gave the following conference talks
     - Gave a full day conference workshop on  on 'Akka Streams' @ Reactive Summit (*2018*)
@@ -55,7 +51,6 @@ product that helps companies track their corporate social responsibility efforts
 **Senior Software Developer**\
 <sup>**scala, ts/js, play framework, spark, akka, graphql, kafka, cassandra**</sup>\
 *(Oct. 2017 - Aug. 2018)*
-- Worked primarily with Scala, Akka, Spark, Typescript, and NodeJS, Cassandra
 - Worked exclusively for the Walmart CA client. I worked with many teams while on the Walmart CA project, but my primary achievements are
     - Lead development of a service that gives all business units access to product information of the Walmart catalog
     - Lead development of the Scan&Go project, a service that allows users to shop at physical Walmart locations digitally
@@ -67,7 +62,6 @@ product that helps companies track their corporate social responsibility efforts
 **Technology Partner**\
 <sup>**scala, js, play framework, angularjs, postgresql, redis, heroku**</sup>\
 *(Apr. 2014 - Apr. 2018)*
-- Worked primarily with Scala, Akka, Spark, Javascript, AngularJS, PostgreSQL, and Redis
 - Lead the development of our software application, an application that helps prospective students choose a field of study that best suits them
 - Recruited post-doc's to aid in the design, creation, and validation of our algorithm
 - Built the application in a way that could be adapted to any post-secondary institution's program offering
@@ -80,7 +74,6 @@ product that helps companies track their corporate social responsibility efforts
 **Software Developer**\
 <sup>**java, postgresql & oracle db**</sup>\
 *(Apr. 2014 - Mar. 2016)*
-- Worked primarily with Java, Oracle DB, PostgreSQL
 - Working primarily on implementing various features to Telus Health's flagship EMR product, PS Suite
 - Worked as build master, leading monthly packaging, build and release of our software application to onsite servers at physician offices accross Ontario
 
