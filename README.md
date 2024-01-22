@@ -82,7 +82,7 @@ product that helps companies track their corporate social responsibility efforts
 - Scala/Java, TypeScript/JavaScript, Dart, Python
 
 **Major Frameworks**
-- Tapir, Vert.x, Akka, Spark, Play Framework, Flutter, React/Native, NextJS, NodeJS
+- Tapir, Vert.x, Cats, Akka, Spark, ZIO, Flutter, React/Native, NextJS, NodeJS
 
 **Infrastructure**
 - GCP, AWS, Kubernetes, Docker
