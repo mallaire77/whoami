@@ -14,7 +14,7 @@ Experienced Software Developer with a strong background in backend software desi
 # Experience
 ## Finwello
 **Senior Software Developer**\
-<sup>**scala, dart, tapir (w/ vert.x), flutter, firebase, gcp (gke, pubsub, cloud  tasks)**</sup>\
+<sup>**scala, zio, dart, tapir (w/ vert.x), flutter, firebase, gcp (gke, pubsub, cloud  tasks)**</sup>\
 *(Sept. 2022 - Present)*
 - Assembled a budget friendly team composed of internal and outsourced talent, accross disciplines like ui/ux, frontend development, backend development, etc.
 - Delivered the software product on budget and on time, from inception to market launch
