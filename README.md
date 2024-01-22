@@ -9,11 +9,11 @@ mallaire77@gmail.com \
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallaire77/)
 
 # Summary
-Experienced Software Developer with a strong background in backend software design and development. Skilled in project and team management, dedicated to fostering a positive work environment and ensuring team success.
+Experienced Software Developer with a strong background in backend software design and development. Skilled in project and team management, dedicated to fostering a positive work environment to ensure team success.
 
 # Experience
 ## Finwello
-**Director of Product Development**\
+**Senior Software Developer**\
 <sup>**scala, dart, tapir (w/ vert.x), flutter, firebase, gcp (gke, pubsub, cloud  tasks)**</sup>\
 *(Sept. 2022 - Present)*
 - Assembled a budget friendly team composed of internal and outsourced talent, accross disciplines like ui/ux, frontend development, backend development, etc.
@@ -38,7 +38,7 @@ product that helps companies track their corporate social responsibility efforts
 - Implemented and executed processes for day to day operation that allowed the team to work as indedendently as possible
 - Day to day, I worked with the team on software development tasks, prioritizing team lead activities
 
-**Software Developer**\
+**Senior Software Developer**\
 <sup>**scala, js, akka, react native, kafka, postgresql, cassandra, dcos, gcp (gke)**</sup>\
 *(Aug. 2018 - Oct. 2020)*
 - Started at Yoppworks as an embedded engineer consulting on the Lightbend stack
