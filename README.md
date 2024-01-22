@@ -77,11 +77,6 @@ product that helps companies track their corporate social responsibility efforts
 - Working primarily on implementing various features to Telus Health's flagship EMR product, PS Suite
 - Worked as build master, leading monthly packaging, build and release of our software application to onsite servers at physician offices accross Ontario
 
-# Education
-**Algonquin College**\
-Computer Science Technology, CSE\
-*(2010-2014)*
-
 # Expertise
 **Languages**
 - Scala/Java, TypeScript/JavaScript, Dart, Python
@@ -98,6 +93,11 @@ Computer Science Technology, CSE\
 - Model selection and performance evaluation
 - Methods to optimize a model's objective function across dataset size, compute budget, and inference requirements
 - Methods for training, tuning, inference, and deployment
+
+# Education
+**Algonquin College**\
+Computer Science Technology, CSE\
+*(2010-2014)*
 
 # Certifications
 - **École Polytechnique Fédérale de Lausanne on Coursera**, Functional Programming Principles in Scala (*2017*)
