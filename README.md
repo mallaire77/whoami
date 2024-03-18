@@ -31,7 +31,7 @@ Experienced Software Developer with a strong background in backend software desi
 - Partnered with Google to install and configure specialized Oracle Server hardware, enabling the migration of a critical Oracle database to GCP.
 - Modernized legacy IBM WebSphere application suite for the same Ontario government department.
 - Balanced client-facing responsibilities with hands-on software development, focusing on establishing effective work practices, regular check-ins, and knowledge transfer sessions.
-- Earned the title of Google's 'Partner of the Year' for 'Public Sector (Canada)' shortly after launching Yoppwork's cloud services.
+- Earned the title of Google's ['Public Sector Partner of the Year (Canada)'](https://improving.com/thoughts/yoppworks-named-the-2023-google-cloud-public-sector-partner-of-the-year/#:~:text=Ottawa%2C%20August%2029th%2C%202023%E2%80%94,the%20Year%20Award%20for%20Canada.) shortly after launching Yoppwork's cloud services.
 
 **Team Lead**\
 <sup>**scala, js, akka, react native, kafka, postgresql, cassandra, dcos, gcp (gke)**</sup>\
@@ -47,7 +47,7 @@ Experienced Software Developer with a strong background in backend software desi
 
 - Provided embedded consulting (Lightbend stack) for major US telecom clients, including Akka training.
 - Pivoted to product development on the GoSpaces incubator product, transforming it from a reference architecture to a full business suite aimed at managing corporate social responsibilities.
-- Presented at industry conferences, including a full-day workshop on 'Akka Streams' at Reactive Summit (2018) and a talk on 'The current state of gRPC as a gateway' at Reactive Horizons (2019).
+- Presented at industry conferences, including a full-day workshop on 'Akka Streams' at Reactive Summit (*2018*) and a talk on 'The current state of gRPC as a gateway' at Reactive Horizons (*2019*).
 
 #### SapientRazorfish
 **Senior Software Developer**\
