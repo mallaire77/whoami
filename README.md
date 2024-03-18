@@ -1,6 +1,4 @@
- <img src="https://github.com/mallaire77/me/blob/main/profile.jpg?raw=true" alt="profile" width="200"/>
-
-**Martin Allaire** \
+## Martin Allaire
 *Senior Software Developer* \
 mallaire77@gmail.com \
 (613) 804-4534
@@ -8,81 +6,81 @@ mallaire77@gmail.com \
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mallaire77)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallaire77/)
 
-# Summary
-Experienced Software Developer with a strong background in backend software design and development. Skilled in project and team management, dedicated to fostering a positive work environment to ensure team success.
+### Summary
+Experienced Software Developer with a strong background in backend software design and development. Skilled in project and team management, dedicated to fostering a positive work environment.
 
-# Experience
-## Finwello
-**Senior Software Developer**\
+### Work
+#### Finwello
+**Director of Technology**\
 <sup>**scala, dart, tapir (w/ vert.x), zio, flutter, firebase, gcp (gke, pubsub, cloud  tasks)**</sup>\
 *(Sept. 2022 - Present)*
-- Assembled a budget friendly team composed of internal and outsourced talent, accross disciplines like ui/ux, frontend development, backend development, etc.
-- Delivered the software product on budget and on time, from inception to market launch
-- Established reasonable SLAs, SLOs and SLIs and the infrastructure to track them
-- Providing sales support; meeting with technical members of prospective clients to address any technical, security, and integration concerns
-- Designing and developing software features end to end
 
-## Yoppworks
+- Strategically assembled a cross-functional development team (internal/outsourced) to deliver a cost-effective software product.
+- Successfully delivered the software product within budget and schedule constraints, from concept to market launch.
+- Supported sales efforts by engaging with prospective clients' technical teams to address technical, security, and integration issues.
+- Established performance metrics (SLAs, SLOs, SLIs) and implemented monitoring to ensure service quality.
+- Designed and developed the infrastructure & backend code for all software features
+
+#### Yoppworks
 **Principal Consultant**\
 <sup>**gcp**</sup>\
-*(May 2022 - Sept. 2022)*
-- Worked with senior management to build out Yoppwork's cloud services practice
-- Named Google's '[Partner of the Year](https://www.improving.com/thoughts/yoppworks-named-the-2023-google-cloud-public-sector-partner-of-the-year/)' for the 'Public Sector (Canada)' category within a year of launching Yoppwork's cloud services offering
-- Day to day, I worked with the team on software development tasks, prioritizing my client facing role to establish ways of working, regular check-ins, and facilitating knowledge transfer when the need arises
+*(March 2022 - Sept. 2022)*
+
+- Developed a comprehensive GCP Landing Zone strategy for the government of Ontario.
+- Executed a complex lift-and-shift migration for one of Ontario's largest government departments, including networking reconfiguration for secure hybrid cloud operations.
+- Partnered with Google to install and configure specialized Oracle Server hardware, enabling the migration of a critical Oracle database to GCP.
+- Modernized legacy IBM WebSphere application suite for the same Ontario government department.
+- Balanced client-facing responsibilities with hands-on software development, focusing on establishing effective work practices, regular check-ins, and knowledge transfer sessions.
+- Earned the title of Google's 'Partner of the Year' for 'Public Sector (Canada)' shortly after launching Yoppwork's cloud services.
 
 **Team Lead**\
 <sup>**scala, js, akka, react native, kafka, postgresql, cassandra, dcos, gcp (gke)**</sup>\
-*(Oct. 2020 - May 2022)*
-- Working as Team Lead for GoSpaces, a subsidiary of Yoppworks, GoSpaces is a
-product that helps companies track their corporate social responsibility efforts via company wide challenges and a powerful space reservation
-- Implemented and executed processes for day to day operation that allowed the team to work as indedendently as possible
-- Day to day, I worked with the team on software development tasks, prioritizing team lead activities
+*(Oct. 2020 - March 2022)*
+
+- Guided two cross-functional developer teams in building the GoSpaces product, emphasizing collective ownership to minimize meetings and foster team accountability and trust.
+- Advocated for and implemented domain-driven design and reactive architecture principles, ensuring team alignment with software design patterns and methodologies.
+- Balanced leadership duties with hands-on development work, focusing on backend design and implementation.
 
 **Senior Software Developer**\
 <sup>**scala, js, akka, react native, kafka, postgresql, cassandra, dcos, gcp (gke)**</sup>\
 *(Aug. 2018 - Oct. 2020)*
-- Started at Yoppworks as an embedded engineer consulting on the Lightbend stack
-- Moved to working on GoSpaces, a subsidiary of Yoppworks. What started as a reference architecture to be used for our client engagements, quickly became a business
-- Gave the following conference talks
-    - Gave a full day conference workshop on  on 'Akka Streams' @ Reactive Summit (*2018*)
-    - Gave a conference talk on 'The current state of gRPC as a gateway' @ Reactive Horizons (*2019*)
 
-## SapientRazorfish
+- Provided embedded consulting (Lightbend stack) for major US telecom clients, including Akka training.
+- Pivoted to product development on the GoSpaces incubator product, transforming it from a reference architecture to a full business suite aimed at managing corporate social responsibilities.
+- Presented at industry conferences, including a full-day workshop on 'Akka Streams' at Reactive Summit (2018) and a talk on 'The current state of gRPC as a gateway' at Reactive Horizons (2019).
+
+#### SapientRazorfish
 **Senior Software Developer**\
 <sup>**scala, ts/js, play framework, spark, akka, graphql, kafka, cassandra**</sup>\
-*(Oct. 2017 - Aug. 2018)*
-- Worked exclusively for the Walmart CA client. I worked with many teams while on the Walmart CA project, but my primary achievements are
-    - Lead development of a service that gives all business units access to product information of the Walmart catalog
-    - Lead development of the Scan&Go project, a service that allows users to shop at physical Walmart locations digitally
+*(Mar. 2016 - Aug. 2018)*
 
-**Software Developer**\
-*(Mar. 2016 - Oct. 2017)*
+- Contributed to Walmart's re-platforming initiative, migrating payment and catalog features to Scala & Play! Framework, focused on reliability and scalability for private cloud (OneOps).
+- Enhanced release processes, enabling weekly releases for increased stability and paving the way for continuous delivery.
+- Integrated Spark and Akka for high-throughput data processing during Walmart marketplace expansion, ensuring minimal downtime.
 
-## Discoverly
+#### Discoverly
 **Technology Partner**\
 <sup>**scala, js, play framework, angularjs, postgresql, redis, heroku**</sup>\
 *(Apr. 2014 - Apr. 2018)*
-- Lead the development of our software application, an application that helps prospective students choose a field of study that best suits them
-- Recruited post-doc's to aid in the design, creation, and validation of our algorithm
-- Built the application in a way that could be adapted to any post-secondary institution's program offering
-- Participated in the following grants & incubators
-    - Stakeholder in the Data Analytics Centre grant presented to the Algonquin College Office of Applied Research
-    - Participated in the first ever cohort of the NextAI Program
-    - Participated in the Startup Garage Incubator
 
-## Telus Health
+- Led the development of a scalable, adaptable application for student program selection.
+- Collaborated with post-docs to design and validate a core recommendation algorithm.
+- Secured funding through grants and participated in accelerator programs (NextAI, Startup Garage).
+
+#### Telus Health
 **Software Developer**\
 <sup>**java, postgresql & oracle db**</sup>\
 *(Apr. 2014 - Mar. 2016)*
-- Working primarily on implementing various features to Telus Health's flagship EMR product, PS Suite
-- Worked as build master, leading monthly packaging, build and release of our software application to onsite servers at physician offices accross Ontario
 
-# Expertise
+- Developed new features for the PS Suite EMR product.
+- Managed build and release processes, ensuring timely delivery of software updates. 
+
+### Expertise
 **Languages**
 - Scala/Java, TypeScript/JavaScript, Dart, Python
 
 **Major Frameworks**
-- Tapir, Vert.x, Cats, Akka, Spark, ZIO, Flutter, React/Native, NextJS, NodeJS
+- Tapir, Vert.x, Cats, Akka, Spark, Flutter, React/Native, NextJS, NodeJS
 
 **Infrastructure**
 - GCP, AWS, Kubernetes, Docker
@@ -94,12 +92,12 @@ product that helps companies track their corporate social responsibility efforts
 - Methods to optimize a model's objective function across dataset size, compute budget, and inference requirements
 - Methods for training, tuning, inference, and deployment
 
-# Education
+### Education
 **Algonquin College**\
 Computer Science Technology, CSE\
 *(2010-2014)*
 
-# Certifications
+### Certifications
 - **École Polytechnique Fédérale de Lausanne on Coursera**, Functional Programming Principles in Scala (*2017*)
 - **École Polytechnique Fédérale de Lausanne on Coursera**, Big Data Analysis with Scala and Spark (*2017*)
 - **Lightbend**, [Ceritified Reactive Architect](https://drive.google.com/file/d/1UGKEGgl72saxOaSJzS1pk9q26vCk9kA9/view) (*2018*)
