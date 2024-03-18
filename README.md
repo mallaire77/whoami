@@ -1,5 +1,5 @@
 ## Martin Allaire
-*Senior Software Developer* \
+*Software Engineer* \
 mallaire77@gmail.com \
 (613) 804-4534
 
@@ -7,7 +7,7 @@ mallaire77@gmail.com \
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallaire77/)
 
 ### Summary
-Experienced Software Developer with a strong background in backend software design and development. Skilled in project and team management, dedicated to fostering a positive work environment.
+Experienced Software Engineer with a strong background in backend software design and development. Skilled in project and team management, dedicated to fostering a positive work environment.
 
 ### Work
 #### Finwello <img src="https://github.com/mallaire77/me/blob/main/finwello.png?raw=true" alt="profile" width="20"/>
@@ -38,7 +38,7 @@ Team Lead\
 - Advocated for and implemented domain-driven design and reactive architecture principles, ensuring team alignment with software design patterns and methodologies.
 - Balanced leadership duties with hands-on development work, focusing on backend design and implementation.
 
-Senior Software Developer\
+Senior Software Engineer\
 *(Aug. 2018 - Oct. 2020)*
 
 - Provided embedded consulting (Lightbend stack) for major US telecom clients, including Akka training.
@@ -46,7 +46,7 @@ Senior Software Developer\
 - Presented at industry conferences, including a full-day workshop on 'Akka Streams' at Reactive Summit (*2018*) and a talk on 'The current state of gRPC as a gateway' at Reactive Horizons (*2019*).
 
 #### Razorfish <img src="https://github.com/mallaire77/me/blob/main/razorfish.png?raw=true" alt="profile" width="20"/>
-Senior Software Developer\
+Senior Software Engineer\
 *(Mar. 2016 - Aug. 2018)*
 
 - Contributed to Walmart's re-platforming initiative, migrating payment and catalog features to Scala & Play! Framework, focused on reliability and scalability for private cloud (OneOps).
@@ -62,7 +62,7 @@ Technology Partner\
 - Secured funding through grants and participated in accelerator programs (NextAI, Startup Garage).
 
 #### Telus Health <img src="https://github.com/mallaire77/me/blob/main/telus.png?raw=true" alt="profile" width="25"/>
-Software Developer\
+Software Engineer\
 *(Apr. 2014 - Mar. 2016)*
 
 - Focused on feature implementation for Telus Health's EMR product, PS Suite, enhancing product functionality and user experience.
