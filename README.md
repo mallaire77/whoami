@@ -10,9 +10,8 @@ mallaire77@gmail.com \
 Experienced Software Developer with a strong background in backend software design and development. Skilled in project and team management, dedicated to fostering a positive work environment.
 
 ### Work
-#### Finwello
-**Director of Technology**\
-<sup>**scala, dart, tapir (w/ vert.x), zio, flutter, firebase, gcp (gke, pubsub, cloud  tasks)**</sup>\
+#### Finwello <img src="https://github.com/mallaire77/me/blob/main/finwello.png?raw=true" alt="profile" width="20"/>
+Director of Technology\
 *(Sept. 2022 - Present)*
 
 - Strategically assembled a cross-functional development team (internal/outsourced) to deliver a cost-effective software product.
@@ -21,9 +20,8 @@ Experienced Software Developer with a strong background in backend software desi
 - Established performance metrics (SLAs, SLOs, SLIs) and implemented monitoring to ensure service quality.
 - Designed and developed the infrastructure & backend code for all software features
 
-#### Yoppworks
-**Principal Consultant**\
-<sup>**gcp**</sup>\
+#### Yoppworks  <img src="https://github.com/mallaire77/me/blob/main/yoppworks.png?raw=true" alt="profile" width="20"/>
+Principal Consultant\
 *(March 2022 - Sept. 2022)*
 
 - Developed a comprehensive GCP Landing Zone strategy for the government of Ontario.
@@ -33,43 +31,38 @@ Experienced Software Developer with a strong background in backend software desi
 - Balanced client-facing responsibilities with hands-on software development, focusing on establishing effective work practices, regular check-ins, and knowledge transfer sessions.
 - Earned the title of Google's ['Public Sector Partner of the Year (Canada)'](https://improving.com/thoughts/yoppworks-named-the-2023-google-cloud-public-sector-partner-of-the-year) shortly after launching Yoppwork's cloud services.
 
-**Team Lead**\
-<sup>**scala, js, akka, react native, kafka, postgresql, cassandra, dcos, gcp (gke)**</sup>\
+Team Lead\
 *(Oct. 2020 - March 2022)*
 
 - Guided two cross-functional developer teams in building the GoSpaces product, emphasizing collective ownership to minimize meetings and foster team accountability and trust.
 - Advocated for and implemented domain-driven design and reactive architecture principles, ensuring team alignment with software design patterns and methodologies.
 - Balanced leadership duties with hands-on development work, focusing on backend design and implementation.
 
-**Senior Software Developer**\
-<sup>**scala, js, akka, react native, kafka, postgresql, cassandra, dcos, gcp (gke)**</sup>\
+Senior Software Developer\
 *(Aug. 2018 - Oct. 2020)*
 
 - Provided embedded consulting (Lightbend stack) for major US telecom clients, including Akka training.
 - Pivoted to product development on the GoSpaces incubator product, transforming it from a reference architecture to a full business suite aimed at managing corporate social responsibilities.
 - Presented at industry conferences, including a full-day workshop on 'Akka Streams' at Reactive Summit (*2018*) and a talk on 'The current state of gRPC as a gateway' at Reactive Horizons (*2019*).
 
-#### SapientRazorfish
-**Senior Software Developer**\
-<sup>**scala, ts/js, play framework, spark, akka, graphql, kafka, cassandra**</sup>\
+#### Razorfish <img src="https://github.com/mallaire77/me/blob/main/razorfish.png?raw=true" alt="profile" width="20"/>
+Senior Software Developer\
 *(Mar. 2016 - Aug. 2018)*
 
 - Contributed to Walmart's re-platforming initiative, migrating payment and catalog features to Scala & Play! Framework, focused on reliability and scalability for private cloud (OneOps).
 - Enhanced release processes, enabling weekly releases for increased stability and paving the way for continuous delivery.
 - Integrated Spark and Akka for high-throughput data processing during Walmart marketplace expansion, ensuring minimal downtime.
 
-#### Discoverly
-**Technology Partner**\
-<sup>**scala, js, play framework, angularjs, postgresql, redis, heroku**</sup>\
+#### Discoverly <img src="https://github.com/mallaire77/me/blob/main/discoverly.png?raw=true" alt="profile" width="20"/>
+Technology Partner\
 *(Apr. 2014 - Apr. 2018)*
 
 - Led the development of a scalable, adaptable application for student program selection.
 - Collaborated with post-docs to design and validate a core recommendation algorithm.
 - Secured funding through grants and participated in accelerator programs (NextAI, Startup Garage).
 
-#### Telus Health
-**Software Developer**\
-<sup>**java, postgresql & oracle db**</sup>\
+#### Telus Health <img src="https://github.com/mallaire77/me/blob/main/telus.png?raw=true" alt="profile" width="25"/>
+Software Developer\
 *(Apr. 2014 - Mar. 2016)*
 
 - Focused on feature implementation for Telus Health's EMR product, PS Suite, enhancing product functionality and user experience.
