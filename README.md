@@ -76,24 +76,24 @@ Experienced Software Developer with a strong background in backend software desi
 - Took on the role of build master, overseeing the build and release process for the software application.
 
 ### Expertise
-**Languages**
+#### Languages
 - Scala/Java, TypeScript/JavaScript, Dart, Python
 
-**Major Frameworks**
+#### Major Frameworks
 - Tapir, Vert.x, Cats, Akka, Spark, Flutter, React/Native, NextJS, NodeJS
 
-**Infrastructure**
+#### Infrastructure
 - GCP, AWS, Kubernetes, Docker
 - Github Actions, Jenkins, TravisCI
 - Major relational and non-relational databases
 
-**ML**
+#### ML
 - Model selection and performance evaluation
 - Methods to optimize a model's objective function across dataset size, compute budget, and inference requirements
 - Methods for training, tuning, inference, and deployment
 
 ### Education
-**Algonquin College**\
+#### Algonquin College
 Computer Science Technology, CSE\
 *(2010-2014)*
 
