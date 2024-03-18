@@ -72,8 +72,8 @@ Experienced Software Developer with a strong background in backend software desi
 <sup>**java, postgresql & oracle db**</sup>\
 *(Apr. 2014 - Mar. 2016)*
 
-- Developed new features for the PS Suite EMR product.
-- Managed build and release processes, ensuring timely delivery of software updates. 
+- Focused on feature implementation for Telus Health's EMR product, PS Suite, enhancing product functionality and user experience.
+- Took on the role of build master, overseeing the build and release process for the software application.
 
 ### Expertise
 **Languages**
