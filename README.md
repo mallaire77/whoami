@@ -28,6 +28,7 @@ Principal Consultant\
 - Executed a complex lift-and-shift migration for one of Ontario's largest government departments, including networking reconfiguration for secure hybrid cloud operations
 - Partnered with Google to install and configure specialized Oracle Server hardware, enabling the migration of a critical Oracle database to GCP
 - Modernized legacy IBM WebSphere application suite for the same Ontario government department
+- Worked with senior management to build out Yoppwork's cloud services practice
 - Balanced client-facing responsibilities with hands-on software development, focusing on establishing effective work practices, regular check-ins, and knowledge transfer sessions
 - Earned the title of Google's ['Public Sector Partner of the Year (Canada)'](https://improving.com/thoughts/yoppworks-named-the-2023-google-cloud-public-sector-partner-of-the-year) shortly after launching Yoppwork's cloud services
 
