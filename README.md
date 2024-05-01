@@ -1,4 +1,4 @@
-## Martin Allaire
+# Martin Allaire
 *Software Engineer* \
 mallaire77@gmail.com \
 (613) 804-4534
@@ -6,21 +6,21 @@ mallaire77@gmail.com \
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mallaire77)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallaire77/)
 
-### Summary
+## Summary
 Experienced Software Engineer with a strong background in backend software design and development. Skilled in project and team management, dedicated to fostering a positive work environment. I enjoy the full development life cycle, from concept to implementation, therefore I am happy as an individual contributor or leading a team.
 
-### Work
-#### Finwello <img src="https://github.com/mallaire77/me/blob/main/finwello.png?raw=true" alt="profile" width="20"/>
+## Work
+### Finwello <img src="https://github.com/mallaire77/me/blob/main/finwello.png?raw=true" alt="profile" width="20"/>
 Director of Technology\
 *(Sept. 2022 - Present)*
 
-- Strategically assembled a cross-functional development team (internal/outsourced) to deliver a cost-effective software product
+- Assembled a cross-functional development team (internal/outsourced) to deliver a cost-effective software product
 - Successfully delivered the software product within budget and schedule constraints, from concept to market launch
-- Supported sales efforts by engaging with prospective clients' technical teams to address technical, security, and integration issues
+- Supported sales efforts by engaging with prospective clients' technical teams to address technical, security, and integration concerns
 - Established performance metrics (SLAs, SLOs, SLIs) and implemented monitoring to ensure service quality
-- Designed and developed the infrastructure & backend code for all software features
+- Sole infrastructure/backend developer, designed and developed the infrastructure & backend code for all software features
 
-#### Yoppworks  <img src="https://github.com/mallaire77/me/blob/main/yoppworks.png?raw=true" alt="profile" width="20"/>
+### Yoppworks  <img src="https://github.com/mallaire77/me/blob/main/yoppworks.png?raw=true" alt="profile" width="20"/>
 Principal Consultant\
 *(March 2022 - Sept. 2022)*
 
@@ -42,11 +42,11 @@ Team Lead\
 Senior Software Engineer\
 *(Aug. 2018 - Oct. 2020)*
 
-- Provided embedded consulting (Lightbend stack) for major US telecom clients, including Akka training
+- Provided embedded consulting (Lightbend stack) for major US companies in a variety of sectors (telcom, banking, automotive), including Akka training
 - Pivoted to product development on the GoSpaces incubator product, transforming it from a reference architecture to a full business suite aimed at managing corporate social responsibilities
 - Presented at industry conferences, including a full-day workshop on 'Akka Streams' at Reactive Summit (*2018*) and a talk on 'The current state of gRPC as a gateway' at Reactive Horizons (*2019*)
 
-#### Razorfish <img src="https://github.com/mallaire77/me/blob/main/razorfish.png?raw=true" alt="profile" width="20"/>
+### Razorfish <img src="https://github.com/mallaire77/me/blob/main/razorfish.png?raw=true" alt="profile" width="20"/>
 Senior Software Engineer\
 *(Mar. 2016 - Aug. 2018)*
 
@@ -54,7 +54,7 @@ Senior Software Engineer\
 - Enhanced release processes, enabling weekly releases for increased stability and paving the way for continuous delivery
 - Integrated Spark and Akka for high-throughput data processing during Walmart marketplace expansion, ensuring minimal downtime
 
-#### Discoverly <img src="https://github.com/mallaire77/me/blob/main/discoverly.png?raw=true" alt="profile" width="20"/>
+### Discoverly <img src="https://github.com/mallaire77/me/blob/main/discoverly.png?raw=true" alt="profile" width="20"/>
 Technology Partner\
 *(Apr. 2014 - Apr. 2018)*
 
@@ -62,36 +62,36 @@ Technology Partner\
 - Collaborated with post-docs to design and validate a core recommendation algorithm
 - Secured funding through grants and participated in accelerator programs (NextAI, Startup Garage)
 
-#### Telus Health <img src="https://github.com/mallaire77/me/blob/main/telus.png?raw=true" alt="profile" width="25"/>
+### Telus Health <img src="https://github.com/mallaire77/me/blob/main/telus.png?raw=true" alt="profile" width="20"/>
 Software Engineer\
 *(Apr. 2014 - Mar. 2016)*
 
 - Focused on feature implementation for Telus Health's EMR product, PS Suite, enhancing product functionality and user experience
 - Took on the role of build master, overseeing the build and release process for the software application
 
-### Expertise
-#### Languages
+## Expertise
+### Languages
 - Scala/Java, TypeScript/JavaScript, Dart, Python
 
-#### Major Frameworks
+### Major Frameworks
 - Tapir, Vert.x, Cats, Akka, Spark, Flutter, React/Native, NextJS, NodeJS
 
-#### Infrastructure
+### Infrastructure
 - GCP, AWS, Kubernetes, Docker
 - Github Actions, Jenkins, TravisCI
 - Major relational and non-relational databases
 
-#### ML
+### ML
 - Model selection and performance evaluation
 - Methods to optimize a model's objective function across dataset size, compute budget, and inference requirements
 - Methods for training, tuning, inference, and deployment
 
-### Education
-#### Algonquin College
+## Education
+### Algonquin College
 Computer Science Technology, CSE\
 *(2010-2014)*
 
-### Certifications
+## Certifications
 - **École Polytechnique Fédérale de Lausanne on Coursera**, Functional Programming Principles in Scala (*2017*)
 - **École Polytechnique Fédérale de Lausanne on Coursera**, Big Data Analysis with Scala and Spark (*2017*)
 - **Lightbend**, [Ceritified Reactive Architect](https://drive.google.com/file/d/1UGKEGgl72saxOaSJzS1pk9q26vCk9kA9/view) (*2018*)
