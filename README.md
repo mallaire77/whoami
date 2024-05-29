@@ -7,7 +7,7 @@ mallaire77@gmail.com \
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallaire77/)
 
 ## Summary
-Experienced Software Engineer with a strong background in backend software design and development. Skilled in project and team management, dedicated to fostering a positive work environment. I enjoy the full development life cycle, from concept to implementation, therefore I am happy as an individual contributor or leading a team.
+Experienced Software Engineer with a strong background in backend software design and development. Skilled in project and team management, dedicated to fostering a positive work environment. I enjoy the full development life cycle, from concept to implementation, therefore I am happy as an individual contributor or managing a project.
 
 ## Work
 ### Finwello <img src="https://github.com/mallaire77/me/blob/main/finwello.png?raw=true" alt="profile" width="20"/>
@@ -28,21 +28,20 @@ Principal Consultant\
 - Executed a complex lift-and-shift migration for one of Ontario's largest government departments, including networking reconfiguration for secure hybrid cloud operations
 - Partnered with Google to install and configure specialized Oracle Server hardware, enabling the migration of a critical Oracle database to GCP
 - Modernized legacy IBM WebSphere application suite for the same Ontario government department
-- Worked with senior management to build out Yoppwork's cloud services practice
 - Balanced client-facing responsibilities with hands-on software development, focusing on establishing effective work practices, regular check-ins, and knowledge transfer sessions
-- Earned the title of Google's ['Public Sector Partner of the Year (Canada)'](https://improving.com/thoughts/yoppworks-named-the-2023-google-cloud-public-sector-partner-of-the-year) shortly after launching Yoppwork's cloud services
+- Earned the accolade of Google's ['Public Sector Partner of the Year (Canada)'](https://improving.com/thoughts/yoppworks-named-the-2023-google-cloud-public-sector-partner-of-the-year)
 
 Team Lead\
 *(Oct. 2020 - March 2022)*
 
-- Guided two cross-functional developer teams in building the GoSpaces product, emphasizing collective ownership to minimize meetings and foster team accountability and trust
-- Advocated for and implemented domain-driven design and reactive architecture principles, ensuring team alignment with software design patterns and methodologies
+- Guided a cross-functional developer team in building the GoSpaces product, emphasizing collective ownership to minimize meetings, maximize value add, and foster team accountability & trust
+- Strongly followed domain-driven design and reactive architecture principles, ensuring team alignment with software design patterns and methodologies
 - Balanced leadership duties with hands-on development work, focusing on backend design and implementation
 
 Senior Software Engineer\
 *(Aug. 2018 - Oct. 2020)*
 
-- Provided embedded consulting (Lightbend stack) for major US companies in a variety of sectors (telcom, banking, automotive), including Akka training
+- Provided consulting (Lightbend stack) for major US companies in a variety of sectors, including Akka training
 - Pivoted to product development on the GoSpaces incubator product, transforming it from a reference architecture to a full business suite aimed at managing corporate social responsibilities
 - Presented at industry conferences, including a full-day workshop on 'Akka Streams' at Reactive Summit (*2018*) and a talk on 'The current state of gRPC as a gateway' at Reactive Horizons (*2019*)
 
@@ -67,7 +66,7 @@ Software Engineer\
 *(Apr. 2014 - Mar. 2016)*
 
 - Focused on feature implementation for Telus Health's EMR product, PS Suite, enhancing product functionality and user experience
-- Took on the role of build master, overseeing the build and release process for the software application
+- Took on the role of build master, overseeing the build process for the software application and working with deployment teams
 
 ## Expertise
 ### Languages
